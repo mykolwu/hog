@@ -1,4 +1,4 @@
-# Hog
+# hog
 A game simulator and AI for the dice game, Hog
 
 Rules: 
